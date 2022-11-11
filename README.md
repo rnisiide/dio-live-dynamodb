@@ -1,11 +1,14 @@
 # Boas práticas com DynamoDB
 
-Este é um fork do repositório  **dio-live-dynamodb**
+Este é um fork do repositório  **dio-live-dynamodb**.
+
 Foi feito dentro do Bootcamp Geração Tech Unimed-BH - Ciência de Dados, no módulo Imersão Cloud Computing.
 
 
 Repositório original para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB: 
+
 https://github.com/cassianobrexbit/dio-live-dynamodb
+
 Cassiano Peres
 
 ### Serviço utilizado
